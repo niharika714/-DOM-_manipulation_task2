@@ -1,1 +1,1 @@
-# -DOM-_manipulation_task2
+This project showcases intermediate HTML, CSS, and JavaScript skills. It includes a styled contact form with validation, a responsive layout using Flexbox and Grid, and a dynamic to-do list and image gallery using DOM manipulation for interactive functionality.
